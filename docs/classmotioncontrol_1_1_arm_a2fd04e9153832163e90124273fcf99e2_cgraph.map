@@ -1,0 +1,7 @@
+<map id="motioncontrol::Arm::placePart" name="motioncontrol::Arm::placePart">
+<area shape="rect" id="node1" title="Place the part on the agv." alt="" coords="5,104,153,145"/>
+<area shape="rect" id="node2" href="$classmotioncontrol_1_1_arm.html#a97d887f3c0fa92decdb9231e7845f5cc" title="Deactivate kitting arm gripper." alt="" coords="227,5,375,47"/>
+<area shape="rect" id="node3" href="$classmotioncontrol_1_1_arm.html#a0ef0f8d7f335fbeaf40073bf948bc681" title="Move the kitting arm to preset location." alt="" coords="223,71,379,112"/>
+<area shape="rect" id="node4" href="$namespacemotioncontrol.html#aa324207b5052c0eeef3344ed8cc5cb91" title=" " alt="" coords="205,136,396,177"/>
+<area shape="rect" id="node5" href="$namespacemotioncontrol.html#ae87113c1cf5ddead7be516bbf0af0a62" title=" " alt="" coords="201,201,400,243"/>
+</map>

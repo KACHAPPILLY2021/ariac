@@ -1,0 +1,4 @@
+<map id="gantry_motioncontrol::Gantry::move_gantry_to_assembly_station" name="gantry_motioncontrol::Gantry::move_gantry_to_assembly_station">
+<area shape="rect" id="node1" title="Moves the gantry to preset location near assembly station." alt="" coords="5,5,172,61"/>
+<area shape="rect" id="node2" href="$classgantry__motioncontrol_1_1_gantry.html#a0681cb28aaa20aa25c01ef9d307c99d1" title=" " alt="" coords="220,13,427,54"/>
+</map>

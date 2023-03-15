@@ -1,0 +1,31 @@
+<map id="motioncontrol::gettransforminWorldFrame" name="motioncontrol::gettransforminWorldFrame">
+<area shape="rect" id="node1" title=" " alt="" coords="591,757,809,799"/>
+<area shape="rect" id="node2" href="$class_logical_camera.html#a640b73ad1188d34e5b5c54ae8a8d0faf" title=" " alt="" coords="341,5,543,47"/>
+<area shape="rect" id="node5" href="$class_logical_camera.html#a5c9baaa69318dc58df84d86378db4e15" title=" " alt="" coords="341,71,543,112"/>
+<area shape="rect" id="node6" href="$class_logical_camera.html#a4fb36a6bc08754d0bd89bc19b2bedc14" title=" " alt="" coords="345,136,539,177"/>
+<area shape="rect" id="node7" href="$class_logical_camera.html#a06f777edb2ddcc776fb736e36c5fcb94" title=" " alt="" coords="341,201,543,243"/>
+<area shape="rect" id="node8" href="$class_logical_camera.html#a062ab7b783a25282f4352d8bfdd39c9d" title=" " alt="" coords="341,267,543,308"/>
+<area shape="rect" id="node9" href="$class_logical_camera.html#a9ca8946d938abac954c4f52ea64359ff" title=" " alt="" coords="345,332,539,373"/>
+<area shape="rect" id="node10" href="$class_logical_camera.html#aa49409404b243acadca3f3bb1df50bf6" title=" " alt="" coords="341,397,543,439"/>
+<area shape="rect" id="node11" href="$class_logical_camera.html#af2d2dcea4e266f6db8a4070f9b1602be" title=" " alt="" coords="341,463,543,504"/>
+<area shape="rect" id="node12" href="$class_logical_camera.html#ab2d16d29885e111512bda22d5db39b0e" title=" " alt="" coords="345,528,539,569"/>
+<area shape="rect" id="node13" href="$class_logical_camera.html#a0b33c4ac1e4f2acae95d0606cfd6847b" title=" " alt="" coords="341,593,543,635"/>
+<area shape="rect" id="node14" href="$class_logical_camera.html#a664d1c5a83e350f10a156603fb8fb77b" title=" " alt="" coords="341,659,543,700"/>
+<area shape="rect" id="node15" href="$class_logical_camera.html#ae4fb914842b9e4690d92485c556fef89" title=" " alt="" coords="345,724,539,765"/>
+<area shape="rect" id="node16" href="$class_logical_camera.html#a92581a26bcd27c08f9c8ddf94165280e" title=" " alt="" coords="357,789,527,831"/>
+<area shape="rect" id="node17" href="$class_logical_camera.html#a2c245d579e6ca0f5fc8a7d03941b6065" title="Called when a new LogicalCameraImage message from /ariac/logical_camera_bins0 is received." alt="" coords="351,855,533,896"/>
+<area shape="rect" id="node18" href="$class_logical_camera.html#ac0198408a680fbf89db188a58f4e25a7" title="Called when a new LogicalCameraImage message from /ariac/logical_camera_bins1 is received." alt="" coords="351,920,533,961"/>
+<area shape="rect" id="node19" href="$class_logical_camera.html#ae83ba473597e2e4afbe42b91530281de" title=" " alt="" coords="343,985,541,1027"/>
+<area shape="rect" id="node20" href="$class_logical_camera.html#aee02af11157abac5aeb6804511d689a1" title=" " alt="" coords="343,1051,541,1092"/>
+<area shape="rect" id="node21" href="$class_logical_camera.html#a10843a515012670987b34f6137fb9d55" title=" " alt="" coords="343,1116,541,1157"/>
+<area shape="rect" id="node22" href="$class_logical_camera.html#adea04486aaafa74b791374628282039d" title=" " alt="" coords="343,1181,541,1223"/>
+<area shape="rect" id="node23" href="$classmotioncontrol_1_1_arm.html#aad72282b0b17d9b6e8145517c631589b" title="Pick and place part using kitting arm." alt="" coords="368,1247,516,1288"/>
+<area shape="rect" id="node25" href="$class_logical_camera.html#a7d6a6ec67a4feac6ebb091ecf50371bd" title=" " alt="" coords="345,1312,539,1353"/>
+<area shape="rect" id="node27" href="$class_logical_camera.html#a7ec84d6b6e1992ea8c181c25757171bf" title=" " alt="" coords="345,1377,539,1419"/>
+<area shape="rect" id="node28" href="$class_logical_camera.html#a3c9017f2b0243ab4f2f40812c2e55db6" title=" " alt="" coords="345,1443,539,1484"/>
+<area shape="rect" id="node29" href="$class_logical_camera.html#ac9e5d5f5c5076335ba50625c67fa49e4" title=" " alt="" coords="345,1508,539,1549"/>
+<area shape="rect" id="node3" href="$class_logical_camera.html#ae52fd8453873f37053827f98d6c490e4" title="Detects the parts in vicinity of all the logical cameras and stores data of each model." alt="" coords="108,470,293,497"/>
+<area shape="rect" id="node4" href="$_my__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,1254,60,1281"/>
+<area shape="rect" id="node24" href="$classmotioncontrol_1_1_arm.html#a03d088adb2314e79aac034238c2fcf32" title="Flips the part(pump)" alt="" coords="127,1276,275,1317"/>
+<area shape="rect" id="node26" href="$class_logical_camera.html#a11566191158b8e2be31324bdc29685ac" title="Get the list of faulty parts." alt="" coords="127,1377,275,1419"/>
+</map>

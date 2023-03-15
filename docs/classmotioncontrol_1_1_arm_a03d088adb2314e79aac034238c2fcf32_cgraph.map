@@ -1,0 +1,13 @@
+<map id="motioncontrol::Arm::flippart" name="motioncontrol::Arm::flippart">
+<area shape="rect" id="node1" title="Flips the part(pump)" alt="" coords="5,167,153,208"/>
+<area shape="rect" id="node2" href="$classmotioncontrol_1_1_arm.html#abb6a565c137dc1c0a377a2a2e90fa835" title="Activate kitting arm gripper." alt="" coords="689,5,837,47"/>
+<area shape="rect" id="node3" href="$classmotioncontrol_1_1_arm.html#a97d887f3c0fa92decdb9231e7845f5cc" title="Deactivate kitting arm gripper." alt="" coords="689,304,837,345"/>
+<area shape="rect" id="node4" href="$classmotioncontrol_1_1_arm.html#a0ef0f8d7f335fbeaf40073bf948bc681" title="Move the kitting arm to preset location." alt="" coords="685,388,841,429"/>
+<area shape="rect" id="node5" href="$classmotioncontrol_1_1_arm.html#a7a8c18bf891ac47fac2ada7fb74b889b" title="Move the joint linear_arm_actuator_joint only." alt="" coords="689,80,837,121"/>
+<area shape="rect" id="node6" href="$classmotioncontrol_1_1_arm.html#aad72282b0b17d9b6e8145517c631589b" title="Pick and place part using kitting arm." alt="" coords="201,225,349,267"/>
+<area shape="rect" id="node8" href="$classmotioncontrol_1_1_arm.html#a8d741821eda731ff38370adcd946d689" title="Pick part using kitting arm." alt="" coords="433,108,581,149"/>
+<area shape="rect" id="node9" href="$namespacemotioncontrol.html#aa324207b5052c0eeef3344ed8cc5cb91" title=" " alt="" coords="668,164,859,205"/>
+<area shape="rect" id="node7" href="$namespacemotioncontrol.html#a35c3519fe56152366a055141778b0ce7" title=" " alt="" coords="397,291,616,332"/>
+<area shape="rect" id="node10" href="$classmotioncontrol_1_1_arm.html#a2fd04e9153832163e90124273fcf99e2" title="Place the part on the agv." alt="" coords="433,225,581,267"/>
+<area shape="rect" id="node11" href="$namespacemotioncontrol.html#ae87113c1cf5ddead7be516bbf0af0a62" title=" " alt="" coords="664,229,863,271"/>
+</map>

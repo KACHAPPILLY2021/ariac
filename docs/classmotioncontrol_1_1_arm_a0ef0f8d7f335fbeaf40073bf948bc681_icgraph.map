@@ -1,0 +1,8 @@
+<map id="motioncontrol::Arm::goToPresetLocation" name="motioncontrol::Arm::goToPresetLocation">
+<area shape="rect" id="node1" title="Move the kitting arm to preset location." alt="" coords="711,53,867,94"/>
+<area shape="rect" id="node2" href="$classmotioncontrol_1_1_arm.html#a03d088adb2314e79aac034238c2fcf32" title="Flips the part(pump)" alt="" coords="108,82,256,124"/>
+<area shape="rect" id="node3" href="$_my__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,60,60,87"/>
+<area shape="rect" id="node4" href="$classmotioncontrol_1_1_arm.html#a85133c6bc9f451a2d2de727ed0fafb9e" title="Pick part from conveyor." alt="" coords="304,24,467,65"/>
+<area shape="rect" id="node5" href="$classmotioncontrol_1_1_arm.html#a2fd04e9153832163e90124273fcf99e2" title="Place the part on the agv." alt="" coords="515,141,663,182"/>
+<area shape="rect" id="node6" href="$classmotioncontrol_1_1_arm.html#aad72282b0b17d9b6e8145517c631589b" title="Pick and place part using kitting arm." alt="" coords="311,141,459,182"/>
+</map>

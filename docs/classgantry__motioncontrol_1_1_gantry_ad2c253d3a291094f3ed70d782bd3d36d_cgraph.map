@@ -1,0 +1,11 @@
+<map id="gantry_motioncontrol::Gantry::flippart" name="gantry_motioncontrol::Gantry::flippart">
+<area shape="rect" id="node1" title="Flips the part." alt="" coords="5,192,168,233"/>
+<area shape="rect" id="node2" href="$classgantry__motioncontrol_1_1_gantry.html#a6a5d0bce6aa7fa3bf88930653334f798" title=" " alt="" coords="443,5,625,47"/>
+<area shape="rect" id="node3" href="$classgantry__motioncontrol_1_1_gantry.html#a76eee6407b8a2057817b2c27e67346ed" title=" " alt="" coords="435,71,633,112"/>
+<area shape="rect" id="node4" href="$classgantry__motioncontrol_1_1_gantry.html#a4a6521d81e39ac22b7e7ac892d87110e" title=" " alt="" coords="442,201,626,243"/>
+<area shape="rect" id="node5" href="$classgantry__motioncontrol_1_1_gantry.html#a0681cb28aaa20aa25c01ef9d307c99d1" title=" " alt="" coords="431,267,637,308"/>
+<area shape="rect" id="node6" href="$classgantry__motioncontrol_1_1_gantry.html#a05149fedc8bed0436c2fc8c63aae99fe" title="Moves the gantry to preset location near bin." alt="" coords="216,250,383,306"/>
+<area shape="rect" id="node7" href="$classgantry__motioncontrol_1_1_gantry.html#aaa2965d88b1f3c530e6f62ca893a8933" title="Picks and places the part." alt="" coords="218,133,381,175"/>
+<area shape="rect" id="node8" href="$namespacemotioncontrol.html#aa324207b5052c0eeef3344ed8cc5cb91" title=" " alt="" coords="439,352,629,393"/>
+<area shape="rect" id="node9" href="$namespacemotioncontrol.html#ae87113c1cf5ddead7be516bbf0af0a62" title=" " alt="" coords="435,136,633,177"/>
+</map>

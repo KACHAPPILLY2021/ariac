@@ -1,0 +1,6 @@
+<map id="gantry_motioncontrol::Gantry::pickPart" name="gantry_motioncontrol::Gantry::pickPart">
+<area shape="rect" id="node1" title="Picks the part using gantry arm." alt="" coords="5,71,168,112"/>
+<area shape="rect" id="node2" href="$classgantry__motioncontrol_1_1_gantry.html#a6a5d0bce6aa7fa3bf88930653334f798" title=" " alt="" coords="220,5,403,47"/>
+<area shape="rect" id="node3" href="$classgantry__motioncontrol_1_1_gantry.html#a4a6521d81e39ac22b7e7ac892d87110e" title=" " alt="" coords="219,71,403,112"/>
+<area shape="rect" id="node4" href="$namespacemotioncontrol.html#aa324207b5052c0eeef3344ed8cc5cb91" title=" " alt="" coords="216,136,407,177"/>
+</map>

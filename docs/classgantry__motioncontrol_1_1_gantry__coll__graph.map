@@ -1,0 +1,4 @@
+<map id="gantry_motioncontrol::Gantry" name="gantry_motioncontrol::Gantry">
+<area shape="rect" id="node1" title="class for the Gantry robot" alt="" coords="35,256,197,297"/>
+<area shape="rect" id="node2" href="$structgantry__motioncontrol_1_1_gantry_1_1_gantry_preset_location.html" title="Struct for preset locations." alt="" coords="5,5,227,47"/>
+</map>

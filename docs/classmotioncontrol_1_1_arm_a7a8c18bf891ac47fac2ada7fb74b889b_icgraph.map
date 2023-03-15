@@ -1,0 +1,9 @@
+<map id="motioncontrol::Arm::moveBaseTo" name="motioncontrol::Arm::moveBaseTo">
+<area shape="rect" id="node1" title="Move the joint linear_arm_actuator_joint only." alt="" coords="711,89,859,131"/>
+<area shape="rect" id="node2" href="$classmotioncontrol_1_1_arm.html#a03d088adb2314e79aac034238c2fcf32" title="Flips the part(pump)" alt="" coords="108,139,256,180"/>
+<area shape="rect" id="node4" href="$classmotioncontrol_1_1_arm.html#a85133c6bc9f451a2d2de727ed0fafb9e" title="Pick part from conveyor." alt="" coords="304,5,467,47"/>
+<area shape="rect" id="node5" href="$classmotioncontrol_1_1_arm.html#a0e27a6026989b9d4503cd5d8e1dda48e" title="Pick faulty part from the agv." alt="" coords="108,69,256,111"/>
+<area shape="rect" id="node6" href="$classmotioncontrol_1_1_arm.html#a8d741821eda731ff38370adcd946d689" title="Pick part using kitting arm." alt="" coords="515,173,663,215"/>
+<area shape="rect" id="node3" href="$_my__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,114,60,141"/>
+<area shape="rect" id="node7" href="$classmotioncontrol_1_1_arm.html#aad72282b0b17d9b6e8145517c631589b" title="Pick and place part using kitting arm." alt="" coords="311,224,459,265"/>
+</map>

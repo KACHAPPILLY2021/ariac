@@ -1,0 +1,10 @@
+<map id="motioncontrol::transformtoWorldFrame" name="motioncontrol::transformtoWorldFrame">
+<area shape="rect" id="node1" title=" " alt="" coords="725,125,924,167"/>
+<area shape="rect" id="node2" href="$classgantry__motioncontrol_1_1_gantry.html#aaa2965d88b1f3c530e6f62ca893a8933" title="Picks and places the part." alt="" coords="515,60,677,101"/>
+<area shape="rect" id="node5" href="$classmotioncontrol_1_1_arm.html#a2fd04e9153832163e90124273fcf99e2" title="Place the part on the agv." alt="" coords="522,125,670,167"/>
+<area shape="rect" id="node8" href="$classgantry__motioncontrol_1_1_gantry.html#a3897e5766a2a3c2c40e1246f237cf475" title="Places the part." alt="" coords="515,191,677,232"/>
+<area shape="rect" id="node3" href="$classgantry__motioncontrol_1_1_gantry.html#ad2c253d3a291094f3ed70d782bd3d36d" title="Flips the part." alt="" coords="304,5,467,47"/>
+<area shape="rect" id="node4" href="$_my__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,122,60,149"/>
+<area shape="rect" id="node6" href="$classmotioncontrol_1_1_arm.html#aad72282b0b17d9b6e8145517c631589b" title="Pick and place part using kitting arm." alt="" coords="311,125,459,167"/>
+<area shape="rect" id="node7" href="$classmotioncontrol_1_1_arm.html#a03d088adb2314e79aac034238c2fcf32" title="Flips the part(pump)" alt="" coords="108,173,256,215"/>
+</map>

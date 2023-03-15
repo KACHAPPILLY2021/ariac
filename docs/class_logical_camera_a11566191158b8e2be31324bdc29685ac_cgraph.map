@@ -1,0 +1,8 @@
+<map id="LogicalCamera::get_faulty_part_list" name="LogicalCamera::get_faulty_part_list">
+<area shape="rect" id="node1" title="Get the list of faulty parts." alt="" coords="5,104,153,145"/>
+<area shape="rect" id="node2" href="$class_logical_camera.html#a7d6a6ec67a4feac6ebb091ecf50371bd" title=" " alt="" coords="201,5,395,47"/>
+<area shape="rect" id="node4" href="$class_logical_camera.html#a7ec84d6b6e1992ea8c181c25757171bf" title=" " alt="" coords="201,71,395,112"/>
+<area shape="rect" id="node5" href="$class_logical_camera.html#a3c9017f2b0243ab4f2f40812c2e55db6" title=" " alt="" coords="201,136,395,177"/>
+<area shape="rect" id="node6" href="$class_logical_camera.html#ac9e5d5f5c5076335ba50625c67fa49e4" title=" " alt="" coords="201,201,395,243"/>
+<area shape="rect" id="node3" href="$namespacemotioncontrol.html#a35c3519fe56152366a055141778b0ce7" title=" " alt="" coords="443,104,661,145"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="gantry_motioncontrol::Gantry::activateGripper" name="gantry_motioncontrol::Gantry::activateGripper">
+<area shape="rect" id="node1" title=" " alt="" coords="459,68,641,109"/>
+<area shape="rect" id="node2" href="$classgantry__motioncontrol_1_1_gantry.html#ad2c253d3a291094f3ed70d782bd3d36d" title="Flips the part." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node3" href="$classgantry__motioncontrol_1_1_gantry.html#aaa2965d88b1f3c530e6f62ca893a8933" title="Picks and places the part." alt="" coords="232,35,395,76"/>
+<area shape="rect" id="node5" href="$classgantry__motioncontrol_1_1_gantry.html#a6c9ff4eb39f6bc161ae15650c1c2c84a" title="Picks and places part on empty bin." alt="" coords="216,100,411,141"/>
+<area shape="rect" id="node6" href="$classgantry__motioncontrol_1_1_gantry.html#ae3171d9f65f47eae5ea17f0e2dee3a67" title="Picks the part using gantry arm." alt="" coords="232,165,395,207"/>
+<area shape="rect" id="node4" href="$_my__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="59,74,114,101"/>
+</map>

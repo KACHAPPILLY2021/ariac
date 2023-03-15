@@ -1,0 +1,9 @@
+<map id="motioncontrol::Arm::pick_from_conveyor" name="motioncontrol::Arm::pick_from_conveyor">
+<area shape="rect" id="node1" title="Pick part from conveyor." alt="" coords="5,169,168,211"/>
+<area shape="rect" id="node2" href="$classmotioncontrol_1_1_arm.html#abb6a565c137dc1c0a377a2a2e90fa835" title="Activate kitting arm gripper." alt="" coords="251,5,399,47"/>
+<area shape="rect" id="node3" href="$classmotioncontrol_1_1_arm.html#a97d887f3c0fa92decdb9231e7845f5cc" title="Deactivate kitting arm gripper." alt="" coords="251,71,399,112"/>
+<area shape="rect" id="node4" href="$classmotioncontrol_1_1_arm.html#ad429b3316768034d67a372adb6cb6bd6" title="Get the pose of the part to be place in empty bin." alt="" coords="216,136,433,177"/>
+<area shape="rect" id="node5" href="$classmotioncontrol_1_1_arm.html#a0ef0f8d7f335fbeaf40073bf948bc681" title="Move the kitting arm to preset location." alt="" coords="247,201,403,243"/>
+<area shape="rect" id="node6" href="$classmotioncontrol_1_1_arm.html#a7a8c18bf891ac47fac2ada7fb74b889b" title="Move the joint linear_arm_actuator_joint only." alt="" coords="251,267,399,308"/>
+<area shape="rect" id="node7" href="$namespacemotioncontrol.html#aa324207b5052c0eeef3344ed8cc5cb91" title=" " alt="" coords="229,332,420,373"/>
+</map>

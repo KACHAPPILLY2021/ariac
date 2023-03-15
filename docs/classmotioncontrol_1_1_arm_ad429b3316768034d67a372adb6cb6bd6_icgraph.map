@@ -1,0 +1,5 @@
+<map id="motioncontrol::Arm::get_part_pose_in_empty_bin" name="motioncontrol::Arm::get_part_pose_in_empty_bin">
+<area shape="rect" id="node1" title="Get the pose of the part to be place in empty bin." alt="" coords="319,5,536,47"/>
+<area shape="rect" id="node2" href="$classmotioncontrol_1_1_arm.html#a85133c6bc9f451a2d2de727ed0fafb9e" title="Pick part from conveyor." alt="" coords="108,5,271,47"/>
+<area shape="rect" id="node3" href="$_my__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,13,60,39"/>
+</map>

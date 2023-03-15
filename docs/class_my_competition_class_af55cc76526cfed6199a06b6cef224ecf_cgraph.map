@@ -1,0 +1,11 @@
+<map id="MyCompetitionClass::init" name="MyCompetitionClass::init">
+<area shape="rect" id="node1" title="Initialize the competition." alt="" coords="5,261,163,303"/>
+<area shape="rect" id="node2" href="$class_my_competition_class.html#ad6efc7461bd42647be7d360d30414f02" title="Called when a new Proximity message from /ariac/breakbeam0 is received." alt="" coords="219,5,393,47"/>
+<area shape="rect" id="node3" href="$class_my_competition_class.html#a785a227300d4cba360450f4d7de4d56f" title="callback for timer" alt="" coords="227,71,385,112"/>
+<area shape="rect" id="node4" href="$class_my_competition_class.html#a05bd5c5d2dd68675b2b81ea12b80d0d7" title="Time since the competition started." alt="" coords="227,137,385,193"/>
+<area shape="rect" id="node5" href="$class_my_competition_class.html#a23daa441b8b9b491c0f5ab6265ae5dd4" title="Called when a new message is received." alt="" coords="227,217,385,273"/>
+<area shape="rect" id="node6" href="$class_my_competition_class.html#a7c9da3fe6b33b6369b04fc3985565c0f" title="Called when a new message is received." alt="" coords="217,297,395,339"/>
+<area shape="rect" id="node7" href="$class_my_competition_class.html#ae2d7d4375758826652da40715d4aacba" title="Called when a new LogicalCameraImage message from /ariac/logical_camera_bins0 is received." alt="" coords="211,363,401,404"/>
+<area shape="rect" id="node8" href="$class_my_competition_class.html#a9b33967c5cfcdeb1fc4a45ef78321bc2" title="Called when a new Order message is received." alt="" coords="227,428,385,469"/>
+<area shape="rect" id="node9" href="$class_my_competition_class.html#a2d2abcb27adffa1f2c1de30f2deac098" title="Start the competition by waiting for and then calling the start ROS Service." alt="" coords="227,493,385,535"/>
+</map>

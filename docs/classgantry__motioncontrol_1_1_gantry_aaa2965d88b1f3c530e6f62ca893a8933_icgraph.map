@@ -1,0 +1,5 @@
+<map id="gantry_motioncontrol::Gantry::movePart" name="gantry_motioncontrol::Gantry::movePart">
+<area shape="rect" id="node1" title="Picks and places the part." alt="" coords="216,35,379,76"/>
+<area shape="rect" id="node2" href="$classgantry__motioncontrol_1_1_gantry.html#ad2c253d3a291094f3ed70d782bd3d36d" title="Flips the part." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node3" href="$_my__node_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="59,71,114,98"/>
+</map>

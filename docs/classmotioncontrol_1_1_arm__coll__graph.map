@@ -1,0 +1,4 @@
+<map id="motioncontrol::Arm" name="motioncontrol::Arm">
+<area shape="rect" id="node1" title="class for the Gantry robot" alt="" coords="8,227,156,253"/>
+<area shape="rect" id="node2" href="$structmotioncontrol_1_1_arm_1_1_arm_preset_location.html" title="Struct for preset locations." alt="" coords="5,5,159,47"/>
+</map>
