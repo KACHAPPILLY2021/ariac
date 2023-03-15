@@ -97,7 +97,7 @@ https://user-images.githubusercontent.com/90359587/224510557-a6d58515-275c-4836-
 <!-- Document and Reports -->
 ## Documentation
 
-The documentation for this project can be found here.
+The documentation for this project can be found [here](https://kachappilly2021.github.io/ariac/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
