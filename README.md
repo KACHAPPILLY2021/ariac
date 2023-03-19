@@ -33,9 +33,9 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+	<li><a href="#usage">Usage</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributors">Contributors</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#license">License</a></li>
@@ -49,14 +49,21 @@
 
 
 
-Implemented Depth First Search algorithm using Object Oriented Programming in C++ and visualized its output using Micromouse simulator.
+The overall project revolves around understanding and tackling various agility challenges, that a
+robot might face during kitting and assembly operations. The initial step is to create a strong control system architecture to efficiently handle agility challenges in kitting and assembly operations. This will be followed by implementing functions to solve these challenges using ```ARIAC interface```, ```MoveIt```, and ```ROS```.
 
-Summary of tasks achieved:
-* Implemented DFS using a representation of the maze(mouse has no prior knowledge of walls except the boundaries.)
-* Generated path from current position to goal using the representation of the maze.
-* Moved the mouse using API interface commands and updated the walls as detected.
-* The robot halted when the mouse hit a wall, and DFS was employed to recalculate the path using prior wall data.
-* The described steps were repeated until the goal position was achieved.
+The robots in use are:
+1. UR10 robotic arm on a linear rail that is capable of only executing kitting operation.
+2. Gantry robot, with a torso and UR10 arm attached to it that can accomplish both kitting
+and assembly tasks.
+3. Automated Guided Vehicle (AGV) to transfer parts from kitting to assembly station.
+
+The competition includes various ```agility challenges``` such as the inclusion of **faulty parts**, **sensor blackout**, **part flipping**, and **high priority order**. 
+
+The final implementation of the project includes but is not limited to ```ROS/C++programming```,
+```coordinate-transformation``` with *TF* library, ```trajectory planning``` using *MoveIt* interface, and strategies to tackle all agility challenges for an autonomous system for different scenarios.
+
+Additional details regarding the tasks, scoring criteria and terminologies used can be found here. [ARIAC](https://github.com/usnistgov/ARIAC/tree/ariac2021)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -66,7 +73,7 @@ Summary of tasks achieved:
 <div align="center">
 
 
-  <h4 align="center"> Kitting Task (X12 Speed)</h4>
+  <h4 align="center"> Kitting Task with faulty part { 3rd part was faulty - part blue} (X12 Speed)</h4>
 
 
 </div>
@@ -97,7 +104,7 @@ https://user-images.githubusercontent.com/90359587/224510557-a6d58515-275c-4836-
 <!-- Document and Reports -->
 ## Documentation
 
-The documentation for this project can be found [here](https://kachappilly2021.github.io/ariac/).
+The documentation for this project can be found at this link [Documentation](https://kachappilly2021.github.io/ariac/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +112,7 @@ The documentation for this project can be found [here](https://kachappilly2021.g
 
 ### Report
 
-Detailed decription for this project can be found in this [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/9MUCtm4vwkQ)
+Detailed Report which explains the implemented architecture and approaches followed to overcome agility challenges. [Report](https://github.com/KACHAPPILLY2021/ariac/blob/main/report/Final_Report.pdf)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -116,70 +123,31 @@ These are the instructions to get started on the project.
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-* atleast C++17
-* OS - Linux (tested)
-
-
-### Installation
-
-Installing the micromouse simulator and running the code.
-
-1. Make directory
-   ```sh
-   mkdir ~/RWA2_simulator
-   ```
-2. Clone the repos
-   ```sh
-   cd ∼ /RWA2_simulator
-   ```
-   ```sh
-   git clone https://github.com/mackorone/mms.git
-   ```
-   ```sh
-   git clone https://github.com/micromouseonline/mazefiles.git
-   ```
-   ```sh
-   git clone https://github.com/KACHAPPILLY2021/maze_solving_algorithm.git
-   ```
-3. Compile Simulator
-   ```sh
-   sudo apt-get install qt5-default
-   ```
-   ```sh
-   cd mms/src
-   ```
-   ```sh
-   qmake && make
-   ```
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* ROS Melodic
+* Gazebo 9.15+
+* ARIAC and associated dependencies. [Installation](https://github.com/usnistgov/ARIAC/blob/ariac2021/wiki/tutorials/installation.md)
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+### Usage
 
-How to start simulator and use this DFS code in it.
-1. Start simulator
-   ```sh
-   cd ∼ /RWA2_simulator/mms/bin
-   ```
-   ```sh
-   ./mms
-   ```
-2. Choose any maze type and Click on the + button as shown in figure.
+After ARIAC installation and catkin workspace creation ```ariac_ws```
 
-3. **Directory**: Click Browse and navigate to 'maze_solving_algorithm'
-4. Enter **Build command** as:
+1. Clone the package ```group5_rwa4``` into ```src``` of ```ariac_ws``` and build it.
    ```sh
-   g++ src/main.cpp src/mouse.cpp src/node.cpp src/api.cpp
+   catkin build group5_rwa4
    ```
-5. Enter **Run Command** as :
-  ```sh
-  ./a.out
-  ```
-6. Then Press **Build**, followed by **RUN** under the **Controls** Section
+2. Source the workspace and then run :
+   ```sh
+   roslaunch group5_rwa4 ariac.launch 
+   ```
+3. In a seperate terminal run :
+   ```sh
+   rosrun group5_rwa4 My_node
+   ```
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -187,7 +155,9 @@ How to start simulator and use this DFS code in it.
 <!-- CONTRIBUTORS -->
 ## Contributors
 
-Here are the
+- [Darshan Jain](https://github.com/Darshan-jain98)
+- [Jeffin Johny](https://github.com/KACHAPPILLY2021)
+- [Pulkit Mehta](https://github.com/pulkitmehta09)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
